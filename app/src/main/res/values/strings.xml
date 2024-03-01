@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PTRK1.2</string>
+    <string name="hello">Hello World!</string>
+    <string name="description_post_author_avatar" translatable="false">Post author avatar</string>
+    <string name="description_post_menu" translatable="false">Post menu</string>
+    <string name="description_post_like" translatable="false">Like</string>
+    <string name="description_post_share" translatable="false">Share</string>
+    <string name="description_post_save" translatable="false">Save</string>
+    <string name="menu_remove" translatable="false">Remove</string>
+    <string name="post_text" translatable="false">Post Text</string>
+    <string name="menu_edit" translatable="false">Edit</string>
+    <string name="error_empty_content" translatable="false">Content can\'t be empty</string>
+</resources>
